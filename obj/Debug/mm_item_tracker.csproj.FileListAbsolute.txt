@@ -1,0 +1,10 @@
+D:\Projects\mm_item_tracker\bin\Debug\mm_item_tracker.exe.config
+D:\Projects\mm_item_tracker\bin\Debug\mm_item_tracker.exe
+D:\Projects\mm_item_tracker\bin\Debug\mm_item_tracker.pdb
+D:\Projects\mm_item_tracker\obj\Debug\mm_item_tracker.csprojAssemblyReference.cache
+D:\Projects\mm_item_tracker\obj\Debug\mm_item_tracker.Properties.Resources.resources
+D:\Projects\mm_item_tracker\obj\Debug\mm_item_tracker.csproj.GenerateResource.cache
+D:\Projects\mm_item_tracker\obj\Debug\mm_item_tracker.csproj.CoreCompileInputs.cache
+D:\Projects\mm_item_tracker\obj\Debug\mm_item_tracker.exe
+D:\Projects\mm_item_tracker\obj\Debug\mm_item_tracker.pdb
+D:\Projects\mm_item_tracker\obj\Debug\mm_item_tracker.MMR_Tracker.resources
