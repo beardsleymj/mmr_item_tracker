@@ -25,7 +25,8 @@ namespace mm_item_tracker
             this.Controls.Add(new Item(new Image[] { Resources.Fire_Arrow }, 91, 12));
             this.Controls.Add(new Item(new Image[] { Resources.Ice_Arrow }, 133, 12));
             this.Controls.Add(new Item(new Image[] { Resources.Light_Arrow }, 175, 12));
-            this.Controls.Add(new Item(new Image[] { Resources.Room_Key }, 217, 12));
+            this.Controls.Add(new Item(new Image[] { Resources.Moon_s_Tear, Resources.Land_Title_Deed, Resources.Swamp_Title_Deed,
+                Resources.Mountain_Title_Deed, Resources.Ocean_Title_Deed}, 217, 12));
             // Row 2
             Item bombs = new Item(new Image[] { Resources.Bomb, Resources.Bomb_30, Resources.Bomb_40 }, 7, 60);
             this.Controls.Add(bombs);
@@ -33,15 +34,15 @@ namespace mm_item_tracker
             this.Controls.Add(new Item(new Image[] { Resources.Deku_Stick }, 91, 60));
             this.Controls.Add(new Item(new Image[] { Resources.Deku_Nut }, 133, 60));
             this.Controls.Add(new Item(new Image[] { Resources.Magic_Beans }, 175, 60));
-            this.Controls.Add(new Item(new Image[] { Resources.Moon_s_Tear, Resources.Land_Title_Deed, Resources.Swamp_Title_Deed,
-                Resources.Mountain_Title_Deed, Resources.Ocean_Title_Deed}, 217, 60));
+            this.Controls.Add(new Item(new Image[] { Resources.Room_Key, Resources.Special_Delivery_to_Mama }, 217, 60));
+
             // Row 3
             this.Controls.Add(new Item(new Image[] { Resources.Powder_Keg }, 7, 108));
             this.Controls.Add(new Item(new Image[] { Resources.Pictograph_Box }, 49, 108));
             this.Controls.Add(new Item(new Image[] { Resources.Lens_of_Truth }, 91, 108));
             this.Controls.Add(new Item(new Image[] { Resources.Hookshot }, 133, 108));
             this.Controls.Add(new Item(new Image[] { Resources.Great_Fairy_s_Sword }, 175, 108));
-            this.Controls.Add(new Item(new Image[] { Resources.Letter_to_Kafei, Resources.Special_Delivery_to_Mama }, 217, 108));
+            this.Controls.Add(new Item(new Image[] { Resources.Letter_to_Kafei }, 217, 108));
             // Row 4
             this.Controls.Add(new Item(new Image[] { Resources.Red_Potion }, 7, 156));
             this.Controls.Add(new Item(new Image[] { Resources.Gold_Dust }, 49, 156));
