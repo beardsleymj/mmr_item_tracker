@@ -32,7 +32,7 @@ namespace mm_item_tracker
             }
             if (checkMark != null)
             {
-                checkMark.Location = new Point(this.Location.X + 28, this.Location.Y - 5);
+                checkMark.Location = new Point(this.Location.X + 31, this.Location.Y - 3);
                 if (startingCheckMark)
                     songCheckMark.Visible = true;
                 checkMark.Enabled = false;

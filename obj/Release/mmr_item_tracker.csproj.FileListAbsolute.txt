@@ -18,3 +18,13 @@ D:\Projects\mmr_item_tracker\bin\Release\mmr_item_tracker.pdb
 D:\Projects\mmr_item_tracker\obj\Release\mmr_item_tracker.csprojAssemblyReference.cache
 D:\Projects\mmr_item_tracker\obj\Release\mmr_item_tracker.exe
 D:\Projects\mmr_item_tracker\obj\Release\mmr_item_tracker.pdb
+E:\projects\mmr_item_tracker\bin\Release\mmr_item_tracker.exe.config
+E:\projects\mmr_item_tracker\bin\Release\mmr_item_tracker.exe
+E:\projects\mmr_item_tracker\bin\Release\mmr_item_tracker.pdb
+E:\projects\mmr_item_tracker\obj\Release\mmr_item_tracker.csprojAssemblyReference.cache
+E:\projects\mmr_item_tracker\obj\Release\mm_item_tracker.MMR_Tracker.resources
+E:\projects\mmr_item_tracker\obj\Release\mm_item_tracker.Properties.Resources.resources
+E:\projects\mmr_item_tracker\obj\Release\mmr_item_tracker.csproj.GenerateResource.cache
+E:\projects\mmr_item_tracker\obj\Release\mmr_item_tracker.csproj.CoreCompileInputs.cache
+E:\projects\mmr_item_tracker\obj\Release\mmr_item_tracker.exe
+E:\projects\mmr_item_tracker\obj\Release\mmr_item_tracker.pdb
